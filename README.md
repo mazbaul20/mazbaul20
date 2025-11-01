@@ -24,7 +24,7 @@ Skills: VUE JS / PHP/ LARAVEL / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mazbaul20/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mazbaul20)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/mazbaul20) -->
 
-<!-- ![GitHub streak stats](https://streak-stats.demolab.com/?user=mazbaul20) -->
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mazbaul20)
 
