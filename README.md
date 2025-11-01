@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mazbaul Islam
 #### I am Full Stack Laravel Developer
-![I am Full Stack Laravel Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Full Stack Laravel Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/mazbaul20/mazbaul20/blob/main/github-profile-banner-design.jpg))
 
 I am laravel developer and youtuber
 
